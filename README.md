@@ -1,5 +1,6 @@
 # spriteAnimation
 private spriteAnimation practice
+
 参考1のコードがベースで写経です。
 
 
