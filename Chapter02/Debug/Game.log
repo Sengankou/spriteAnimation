@@ -1,0 +1,23 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  BGSpriteComponent.cpp
+  Component.cpp
+  Game.cpp
+  Main.cpp
+  Ship.cpp
+  SpriteComponent.cpp
+  コードを生成中...
+  Game.vcxproj -> D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\Debug\Game.exe
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\libfreetype-6.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\libogg-0.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\libpng16-16.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\libvorbis-0.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\libvorbisfile-3.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\SDL2.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\SDL2_image.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\SDL2_mixer.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\SDL2_ttf.dll
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\\..\external\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied

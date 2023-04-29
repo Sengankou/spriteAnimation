@@ -1,0 +1,2 @@
+D:\Programing\cpp\GameProgramingC++\code-master\Chapter02\Debug\Game.exe
+D:\Programing\cpp\GameProgramingC++\spriteAnimation\Chapter02\Debug\Game.exe
